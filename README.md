@@ -1,6 +1,6 @@
 # Unet-Segmentation-with-Tensorflow
-This is a repository for building facades segmentation using CMP facade dataset and unet architecture of neural network with Tensorflow as a background.
-Dataset: https://cmp.felk.cvut.cz/~tylecr1/facade/
+Данный репозиторий создан в целях сегментации фасадов зданий с использованием фреймворка Tensorflow и нейросети архитектуры U-net.
+Датасет: https://cmp.felk.cvut.cz/~tylecr1/facade/
 
 Современные технологии искусственного интеллекта (ИИ) применяются в различных сферах, включая строительство, проектирование, эксплуатацию и продажу квартир. Некоторые примеры применения ИИ включают проектирование и моделирование зданий, оптимизацию производственных процессов, управление энергопотреблением зданий, прогнозирование цен на недвижимость и рекомендательные системы для покупателей недвижимости.
 
