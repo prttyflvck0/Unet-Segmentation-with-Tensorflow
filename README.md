@@ -1,4 +1,4 @@
-# Unet-Segmentation-with-Tensorflow
+# Unet Segmentation with Tensorflow
 Сегментация фасадов зданий с использованием фреймворка Tensorflow и нейросети архитектуры U-net.
 Датасет: https://cmp.felk.cvut.cz/~tylecr1/facade/
 
